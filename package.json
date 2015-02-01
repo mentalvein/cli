@@ -1,6 +1,6 @@
 {
 	"name": "mentalvein-cli",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "Command-line interface for Mental Vein",
 	"author": "kdi",
 	"contributors": [
